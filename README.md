@@ -5,18 +5,6 @@ Learning pycharm
 
 This project aims to address a series of programming challenges and tasks related to data processing, file manipulation, and more. The project involves using various Python libraries and tools to achieve specific objectives.
 
-## Table of Contents
-
-- [Data Source](#data-source)
-- [Libraries](#libraries)
-- [Project Tasks](#project-tasks)
-- [File Organization](#file-organization)
-- [Logging](#logging)
-- [Data Processing](#data-processing)
-- [Similarity Analysis](#similarity-analysis)
-- [File Merging](#file-merging)
-- [Backup](#backup)
-
 ## Data Source
 
 The project uses the following data sources:
