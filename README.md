@@ -56,10 +56,4 @@ The following Python libraries are utilized in this project:
 - Set up the required Python environment with the specified libraries.
 - Execute the main program (`main.py`) to run the project tasks.
 
-## Author
 
-[Your Name]
-
-## License
-
-This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
