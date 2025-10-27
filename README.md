@@ -1,5 +1,5 @@
 # Project Title
-Learning pycharm
+Learning pycharm through dataset operations
 
 ## Project Description
 
